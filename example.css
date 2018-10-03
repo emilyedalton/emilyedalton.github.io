@@ -1,0 +1,10 @@
+.container{ 
+    max-width: 960px;
+    margin: 0 auto 0 auto; 
+    border: 5px solid red;
+}
+body{ 
+    background-image: url(/class-example/images/Screen\ Shot\ 2018-09-28\ at\ 8.46.49\ AM.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
